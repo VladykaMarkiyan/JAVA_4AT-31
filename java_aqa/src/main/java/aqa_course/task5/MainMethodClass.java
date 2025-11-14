@@ -9,7 +9,7 @@ public class MainMethodClass {
 
         System.out.println("a + b: " + sum);
 
-        //command run
+        //command run:
         //mvn exec:java -DskipTests -Dexec.mainClass="aqa_course.task5.MainMethodClass" -Dexec.args="5 5"
     }
 }
